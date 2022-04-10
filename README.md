@@ -27,7 +27,7 @@ $L+32$个位置，其中$L$为隐写文件大小，而32是一个uint32的整数
 app文件：demo_app.mlapp。文件运行需要matlab版本支持matlab app。app页面如下图： 
 
 <div align = "center">
-    <img src="image\illustrate\app1.jpg" alt="app1" width="304" height="228">
+    <img src="image\illustrate\app1.jpg" alt="app1" width="304" height="288">
 </div>
 
 输入任意数字设定密钥，之后设定载体图片，写入信息，并从写有信息的图片中读取隐藏的信息。任何二进制形式文件都是可以存取的，但注意存取时
