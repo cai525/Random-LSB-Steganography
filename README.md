@@ -18,8 +18,8 @@ L+32个位置，其中L为隐写文件大小，而32是一个uint32的整数，�
 文件包括实时脚本演示和一个简单的app demo。  
 实时脚本部分结构如下：
 ```
-    main.mlx -->lsbRead.m[lsb隐写函数] --> lsbEmbedding.m[获得随机嵌入位置的函数]
-             -->lsbRead.m[读取隐写信息的函数]
+    main.mlx -->lsbRead.mlx[lsb隐写函数] --> lsbEmbedding.mlx[获得随机嵌入位置的函数]
+             -->lsbRead.mlx[读取隐写信息的函数]
 ```
 
 脚本和函数内部都有非常清楚的markdown注释，包括原理等。依次运行cell以观看演示的结果。
