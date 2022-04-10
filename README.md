@@ -1,6 +1,6 @@
 # <b><font color="FF6633">Random-LSB-Steganography</font></b>
 ---
-**利用随机LSB替换算法在bmp文件中嵌入信息**
+**利用随机LSB替换算法在bmp文件中嵌入信息**  —— by Pengfei Cai,Dlut,2022-04-10
 
 ## 一.任务简介
 使用Matlab编写一个对24bit真彩色BMP图像，进行最低2个位平面随机LSB替换算法嵌入秘密信息的程序。  
